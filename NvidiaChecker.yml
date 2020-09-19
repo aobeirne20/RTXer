@@ -1,0 +1,4 @@
+OOSMarker:
+    css: 'div.column-1-1 span.oos-btn'
+    xpath: null
+    type: Text

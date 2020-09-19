@@ -1,0 +1,15 @@
+Availability:
+    css: p.item-promo
+    xpath: null
+    multiple: true
+    type: Text
+ProductName:
+    css: 'div.item-cell a.item-title'
+    xpath: null
+    multiple: true
+    type: Text
+Link:
+    css: 'div.item-cell a.item-title'
+    xpath: null
+    multiple: true
+    type: Link
