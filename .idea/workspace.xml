@@ -117,10 +117,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="890" y="366" width="1092" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400/2560.191.1920.1040@0.0.2560.1400" timestamp="1600556116195" />
-    <state x="905" y="294" key="CommitChangelistDialog2" timestamp="1600655442552">
+    <state x="905" y="294" key="CommitChangelistDialog2" timestamp="1600655477008">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="905" y="294" key="CommitChangelistDialog2/0.0.2560.1400/2560.191.1920.1040@0.0.2560.1400" timestamp="1600655442552" />
+    <state x="905" y="294" key="CommitChangelistDialog2/0.0.2560.1400/2560.191.1920.1040@0.0.2560.1400" timestamp="1600655477008" />
     <state x="1216" y="474" key="FileChooserDialogImpl" timestamp="1600367958914">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -145,6 +145,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="779" y="337" key="SettingsEditor/0.0.2560.1400/2560.191.1920.1040@0.0.2560.1400" timestamp="1600554613374" />
+    <state x="872" y="433" key="Vcs.Push.Dialog.v2" timestamp="1600655483019">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="872" y="433" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.191.1920.1040@0.0.2560.1400" timestamp="1600655483019" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/RTXer$main.coverage" NAME="main Coverage Results" MODIFIED="1600638388416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
