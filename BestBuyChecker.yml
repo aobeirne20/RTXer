@@ -1,0 +1,5 @@
+PriceBlock:
+    css: div.price-block
+    xpath: null
+    multiple: true
+    type: Text
